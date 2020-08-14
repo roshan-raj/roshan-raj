@@ -4,7 +4,6 @@
 ![Focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=roshan-raj.visitor-badge)
 
-<br>
 <hr>
 <br>
 
