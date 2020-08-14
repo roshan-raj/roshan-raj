@@ -4,15 +4,20 @@
 ![Focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=roshan-raj.visitor-badge)
 
-<br />
+<br>
+<hr>
+<br>
 
-[![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan-raj&show_icons=true)](https://github.com/roshan-raj)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=roshan-raj&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-raj&theme=default&line_height=50&layout=compact" />
+</p>
 
-<br />
+<br>
 
 <div align="center">
   
-  **📫 Reach me at:**<br>
+  **Get in touch with me here**<br>
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_roshan_raj)](https://twitter.com/_roshan_raj)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan139154/)](https://www.linkedin.com/in/roshan139154/)
