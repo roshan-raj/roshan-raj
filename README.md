@@ -1,5 +1,3 @@
-<img align='right' src="https://github.com/roshan-raj/roshan-raj/blob/master/assets/RoTheLegend-BG-Transparent.png" width="230">
-
 ### Hi there, it's Roshan 👋
 
 <!--
