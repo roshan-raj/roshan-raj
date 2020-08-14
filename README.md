@@ -1,4 +1,4 @@
-### Hi there, it's Roshan here! 👋
+### Hi there, it's Roshan 👋
 
 <!--
 **roshan-raj/roshan-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![Age](https://img.shields.io/badge/Age-22-blue)
 ![Focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=roshan-raj.visitor-badge)
 
 <br />
 
