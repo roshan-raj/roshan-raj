@@ -1,7 +1,4 @@
-<h2> Hi there, it's Roshan 👋 </h2>
-<img align='right' src="https://github.com/roshan-raj/roshan-raj/blob/master/assets/RoTheLegend-BG-Transparent.png" width="230">
-<p><em>Associat Software Enginner at <a href="https://www.torryharris.com/">Torry Harris Integration Solutions</a>
-</em></p>
+### Hi there, it's Roshan 👋 
 
 ![Age](https://img.shields.io/badge/Age-22-blue)
 ![Focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
