@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, it's Roshan here! 👋
 
 <!--
 **roshan-raj/roshan-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Age](https://img.shields.io/badge/Age-22-blue)
+![Focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
+
+<br />
+
+[![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan-raj&show_icons=true)](https://github.com/roshan-raj)
+
+
+⭐️ From [Roshan Raj](https://github.com/roshan-raj)
