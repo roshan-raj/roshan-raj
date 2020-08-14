@@ -1,5 +1,5 @@
 <h2> Hi there, it's Roshan 👋 </h2>
-<img align='right' src="assets/RoTheLegend-BG-Transparent.png" width="230">
+<img align='right' src="/assets/RoTheLegend-BG-Transparent.png" width="230">
 <p><em>Associat Software Enginner at <a href="https://www.torryharris.com/">Torry Harris Integration Solutions</a>
 </em></p>
 
