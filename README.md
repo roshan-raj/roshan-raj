@@ -1,8 +1,12 @@
 ### Hi there, it's Roshan 👋 
 
+![Developer Badge](https://img.shields.io/badge/Developer-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000)
+![Gamer Badge](https://img.shields.io/badge/Gamer-R31ED760.svg?&style=for-the-badge&logoColor=white&color=000000)
+<br />
 ![Age](https://img.shields.io/badge/Age-22-blue)
 ![Focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=roshan-raj.visitor-badge)
+
 
 <hr>
 <br>
